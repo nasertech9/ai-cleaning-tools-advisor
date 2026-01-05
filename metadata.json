@@ -1,0 +1,7 @@
+{
+  "name": "CleanSmart AI",
+  "description": "An intelligent cleaning companion that provides expert suggestions for tools, products, and techniques using real-time search grounding to tackle any mess.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
